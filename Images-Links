@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8"
+    <title Images and Links Assignment</title
+
+</head>
+<body>
+    <h1>You may like to visit Longwood Gardens in Pennsylvania</h1>
+    <p> Longwood Gardens is a large arboretum in Kennett Square, PA, known for its holiday dsplays.</p>
+    <p>See more on their website:</p>
+    <a href="https://www.longwoodgardens.org/about" target="_blank" rel="noopener, noreferrer"</a>
+    <br>
+    <h2>Here's an image from Google</h2>
+    <br>
+    <img
+    src "https://share.google/CW7jwwZljKlmTILON" alt="Picture of Longwood Gardens from Google"
+
+</body>
+</html>
