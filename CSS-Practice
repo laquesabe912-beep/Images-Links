@@ -1,0 +1,32 @@
+!DOCTYPE <html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS-Practice</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body background-color: white;}
+        h1 {color: blue;}
+        h2 {color: green;}
+        h3 {color: yellow:}
+        h4 {color:orange;}
+        h5 {color:purple;}
+        h6 {color:red;}
+        p {color:black;}
+    </style>
+</head>
+<body>
+    <h1>This is Heading 1</h1>
+    <p>This is a paragraph under Heading 1.</p>
+    <h2>This is Heading 2</h2>
+    <p>This is a paragraph under Heading 2.</p>
+    <h3>This is Heading 3</h3>
+    <p>This is a paragraph under Heading 3.</p>
+    <h4>This is Heading 4</h4>
+    <p>This is a paragraph under Heading 4.</p>
+    <h5>This is Heading 5</h5>
+    <p>This is a paragraph under Heading 5.</p>
+    <h6>This is Heading 6</h6>
+    <p>This is a paragraph under Heading 6.</p>
+</body>
+</html>
