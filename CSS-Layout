@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title CSS-Layout</title>
+        </head>
+        <body>
+         <style>
+            <div>
+        CSS.content-box {
+            margin: auto;
+            width: 100%;
+            border: 10px solid purple;
+            padding: 20px;
+            box-sizing: content-box;
+            background-color: yellow;
+        }
+        p{
+        text align:center;
+            This box is 100% wide, plus 20px padding and 10px border on each side.  
+        }
+        </style>
+        </div>
+        </body>
+        </html>
+    
