@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flexbox-Practice</title>
+</head>
+<body>
+    <div class="flex-container">
+        <div class="flex-item">Click_Here</div>
+        <div class="flex-item">This_Is_An_Action_Button</div>
+        <div class="flex-item">Submit</div>
+        .flex-container{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 150px;
+            border: 2px solid powder blue;
+            flex-wrap: nowrap;
+        }
+    </body>
+    </html>
